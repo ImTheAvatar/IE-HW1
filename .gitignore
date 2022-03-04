@@ -1,3 +1,8 @@
+#excluding all jpg files
+*.jpg
+#Im adding unity .gitignore template just to demonstrate that yeah, i know how to do it, but will keep the previous .gitignore aswell.
+
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
@@ -57,4 +62,3 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
-
